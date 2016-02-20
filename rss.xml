@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheHarveyCodyChronicles]]></title>
+        <description><![CDATA[TheHarveyCodyChronicles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 01:31:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Let’s say a person (Beth) invents a pill, gets regulatory approvals, manufactures and sells the pill, which causes anyone who takes it to be $100 happier - with no negative side effects. Assume also (1) Beth’s company neither breaks any laws nor buys and favors from government, sells the pills for $30 each, (2) it costs the company $20 per pill to pay for all the equipment, employees, taxes and other things needed to</p>]]></description>
+            <link>undefined4e4d06e3-e266-40eb-a183-164949880bd9/index.html</link>
+            <guid isPermaLink="false">4e4d06e3-e266-40eb-a183-164949880bd9</guid>
+            <pubDate>Sat, 20 Feb 2016 01:31:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
