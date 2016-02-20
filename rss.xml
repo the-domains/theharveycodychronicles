@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[TheHarveyCodyChronicles]]></title>
         <description><![CDATA[TheHarveyCodyChronicles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theharveycodychronicles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 01:31:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 01:36:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theharveycodychronicles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/theharveycodychronicles/6ab895f8-e7b3-4718-9208-ca99f7e590e6/index.html</link>
+            <guid isPermaLink="false">6ab895f8-e7b3-4718-9208-ca99f7e590e6</guid>
+            <pubDate>Sat, 20 Feb 2016 01:36:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Let’s say a person (Beth) invents a pill, gets regulatory approvals, manufactures and sells the pill, which causes anyone who takes it to be $100 happier - with no negative side effects. Assume also (1) Beth’s company neither breaks any laws nor buys and favors from government, sells the pills for $30 each, (2) it costs the company $20 per pill to pay for all the equipment, employees, taxes and other things needed to</p>]]></description>
-            <link>undefined4e4d06e3-e266-40eb-a183-164949880bd9/index.html</link>
+            <link>https://thegrid.ai/theharveycodychronicles/4e4d06e3-e266-40eb-a183-164949880bd9/index.html</link>
             <guid isPermaLink="false">4e4d06e3-e266-40eb-a183-164949880bd9</guid>
             <pubDate>Sat, 20 Feb 2016 01:31:13 GMT</pubDate>
         </item>
